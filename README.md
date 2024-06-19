@@ -1,4 +1,4 @@
-ks# mero-college-demo
+# mero-college-demo
 this is my first git repository
 <br>
 Author - sandesh niraula
